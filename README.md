@@ -189,8 +189,8 @@ Exemplo:
 
 ```bash
 # 1. Clonar
-https://github.com/seu-usuario/seu-repo.git
-cd seu-repo
+git clone https://github.com/hamiltonglaucio/onfly.git
+cd onfly
 
 # 2. Instalar dependências
 composer install
